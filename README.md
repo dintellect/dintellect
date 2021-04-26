@@ -15,3 +15,8 @@
      - 📃 [Portfolio](https://aksheysinghal.github.io/)
 
 ![Akshey's GitHub stats](https://github-readme-stats.vercel.app/api?username=dintellect&show_icons=true&theme=tokyonight&hide=contribs,prs)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=dintellect) 
+
+#### 😂 Here is a random joke!
+![Jokes Card](https://readme-jokes.vercel.app/api)
