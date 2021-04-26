@@ -1,7 +1,5 @@
 ### Hi there I'm Akshey 👋
 
-<!--
-**dintellect/dintellect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 💻 I’m a Data Scientist by profession.
 - 💡 I love to discover, innovate, and optimize solutions for data-driven applications.
@@ -14,4 +12,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
