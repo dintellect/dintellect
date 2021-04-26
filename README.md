@@ -13,6 +13,5 @@
      - 📧 [Email](mailto:aksheysinghal12@gmail.com) 
 - 🔍Learn more about me on:
      - 📃 [Portfolio](https://aksheysinghal.github.io/)
-     - 
 
 ![Akshey's GitHub stats](https://github-readme-stats.vercel.app/api?username=dintellect&show_icons=true&theme=tokyonight&hide=contribs,prs)
