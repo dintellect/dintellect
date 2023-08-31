@@ -1,7 +1,7 @@
 ### Hi there I'm Akshey 👋
 
 
-- 💻 I’m a Data Scientist by profession.
+- 💻 I’m a Machine Learning Engineer by profession.
 - 💡 I love to discover, innovate, and optimize solutions for data-driven applications.
 - ⚡ My work is evolving with the revolution in AI.
 - 🌱 I’m addicted to learning and growing everyday.
